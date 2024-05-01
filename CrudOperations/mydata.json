@@ -1,0 +1,39 @@
+{
+  "Students": [
+    {
+      "id": "11ad",
+      "sname": "Raj",
+      "subject": "Sanskrit",
+      "mark": "63",
+      "result": "pass"
+    },
+    {
+      "id": "a42f",
+      "sname": "sam",
+      "subject": "Sanskrit",
+      "mark": "63",
+      "result": "pass"
+    },
+    {
+      "id": "c431",
+      "sname": "sam",
+      "subject": "English",
+      "mark": "63",
+      "result": "pass"
+    },
+    {
+      "id": "eaab",
+      "sname": "Raj",
+      "subject": "Civics",
+      "mark": "12",
+      "result": "fail"
+    },
+    {
+      "id": "5c3c",
+      "sname": "Kamal",
+      "subject": "Hinid",
+      "mark": "21",
+      "result": "Fail"
+    }
+  ]
+}
